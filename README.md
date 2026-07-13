@@ -7,3 +7,5 @@ My solutions to Striver's A2Z DSA Sheet.
 - Second Largest Element in Array
 - Pascal's Triangle - i
 - Two Sum
+- Check if the Array is Sorted II
+- Sort an array of 0's 1's and 2's
