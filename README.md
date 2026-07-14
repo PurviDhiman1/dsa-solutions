@@ -9,3 +9,4 @@ My solutions to Striver's A2Z DSA Sheet.
 - Two Sum
 - Check if the Array is Sorted II
 - Sort an array of 0's 1's and 2's
+- Remove duplicates from Sorted array
