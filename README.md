@@ -18,3 +18,4 @@ My solutions to Striver's A2Z DSA Sheet.
 - N-Forest
 - N/2-Forest
 - Star Pyramid
+- Inverted Star Pyramid
