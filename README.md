@@ -13,9 +13,19 @@ My solutions to Striver's A2Z DSA Sheet.
 - Majority Element-I
 
 ## Patterns
+
 - Triangle
 - N-Triangles
 - N-Forest
 - N/2-Forest
 - Star Pyramid
 - Inverted Star Pyramid
+- Star Diamond
+- Binary Number Triangle
+- Number Palindrome Triangle
+- Number Triangle
+- Alphabet Triangle
+- Inverted Alphabet Triangle
+- Alphabet Repeating Triangle
+- Alphabet Palindrome Triangle
+- Symmetric Butterfly
