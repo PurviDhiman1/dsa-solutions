@@ -11,3 +11,9 @@ My solutions to Striver's A2Z DSA Sheet.
 - Sort an array of 0's 1's and 2's
 - Remove duplicates from Sorted array
 - Majority Element-I
+
+## Patterns
+- Triangle
+- N-Triangles
+- N-Forest
+- N/2-Forest
